@@ -1,0 +1,12 @@
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\appSettings.json
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\SendLogstoLogAnalytics2.deps.json
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\SendLogstoLogAnalytics2.runtimeconfig.json
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\SendLogstoLogAnalytics2.runtimeconfig.dev.json
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\SendLogstoLogAnalytics2.dll
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\bin\Release\netcoreapp2.0\SendLogstoLogAnalytics2.pdb
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.csprojResolveAssemblyReference.cache
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.csproj.CoreCompileInputs.cache
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.AssemblyInfoInputs.cache
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.AssemblyInfo.cs
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.dll
+D:\MyWork\My Code\SendLogstoLogAnalytics2\SendLogstoLogAnalytics2\obj\Release\netcoreapp2.0\SendLogstoLogAnalytics2.pdb
